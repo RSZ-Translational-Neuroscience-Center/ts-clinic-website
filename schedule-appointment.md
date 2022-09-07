@@ -11,7 +11,7 @@ hero_text:
 ## Who To Contact
 TSC Appointments\
 Phone: 617-355-2711\
-Fax: 617-730-0804\
+Fax: 617-730-0804
 
 For international patients, please contact the Boston Children's Hospital Global Center to schedule your appointment: [Click here to learn more](https://www.childrenshospital.org/international/become-a-patient)
 
